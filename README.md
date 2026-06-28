@@ -37,6 +37,3 @@ Zaměřuji se na projekty, které mají marketingový přesah a reálný společ
 * 🛒 **[Analýza českého maloobchodu](https://github.com/tryhubovaivana-coder/analyza-prodeju-a-slev-v-retailu)** – Analýza nákupního chování, tržeb a slev na základě otevřených dat ČSÚ.
 
 ---
-
-📬 **Hledáte do týmu člověka, který umí mluvit s lidmi, rozumí obchodu a nebojí se tvrdých dat?** 
-Prohlédněte si mé projekty tady na GitHubu nebo mě kontaktujte. Ráda se s vámi potkám!
