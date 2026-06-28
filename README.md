@@ -15,9 +15,9 @@ Moje začátky byly jednoznačně o klientské péči, empatii a skvělé komuni
 * **Bankovní specialistka:** Pozice v americké bance, kde se péče o lidi poprvé protnula s obrovskou zodpovědností, přesností a prací s financemi.
 
 ### 🌱 2. Velký zlom a svět dat
-Postupně jsem tyto zkušenosti zúročila a posunula se do vysoce kvalifikovaných rolí v mezinárodním prostředí:
+Postupně jsem tyto zkušenosti zúročila a posunula se do kvalifikovaných rolí v mezinárodním prostředí:
 * **Analytička trhu komerčních nemovitostí:** Tady jsem se naplno ponořila do světa dat, analýz a firemních procesů.
-* **Asistentka obchodního managementu:** Pozice, ve které se oba moje světy propojily. Podpora obchodu totiž vyžaduje jak skvělé komunikační dovednosti a empatii, tak práci s tvrdými daty, rozpočty a strategické plánování.
+* **Obchodní manažerka:** Pozice, ve které se oba moje světy propojily. Podpora obchodu totiž vyžaduje jak skvělé komunikační dovednosti a empatii, tak práci s tvrdými daty, rozpočty a strategické plánování.
 
 ---
 
