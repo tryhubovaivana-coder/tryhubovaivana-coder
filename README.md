@@ -2,7 +2,7 @@
 
 Vítám vás na mém GitHubu. Jsem člověk, který věří, že za každým číslem a grafem se skrývá reálný lidský příběh a skutečné potřeby zákazníků. 
 
-Moje kariéra se opírá o dva silné pilíře, které se dnes dokonale propojují: **svět lidí a svět dat**. Aktuálně procházím intenzivním rekvalifikačním programem (120 hodin výuky a každodenní praxe), kde se učím moderní datovou analytiku se zaměřením na sociální podnikání a marketing.
+Moje kariéra se opírá o dva silné pilíře, které se dnes dokonale propojují: **svět lidí a svět dat**. Aktuálně se učím moderní datovou analytiku.
 
 ---
 
