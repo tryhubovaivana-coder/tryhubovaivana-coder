@@ -1,4 +1,4 @@
-# Ahoj, já jsem Ivana! 👋
+# Ahoj, já jsem Ivana Anna! 👋
 
 Vítám vás na mém GitHubu. Jsem člověk, který věří, že za každým číslem a grafem se skrývá reálný lidský příběh a skutečné potřeby zákazníků. 
 
