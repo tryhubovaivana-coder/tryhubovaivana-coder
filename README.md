@@ -21,7 +21,7 @@ Postupně jsem tyto zkušenosti zúročila a posunula se do kvalifikovaných rol
 
 ---
 
-## 🛠️ Co se aktuálně učím a jaké nástroje ovládám?
+## 🛠️ Co se učím a jaké nástroje ovládám?
 Abych dokázala data propojovat s byznysem ještě efektivněji, rozvíjím své technické dovednosti srozumitelným jazykem:
 * **SQL (databáze):** Učím se čistit a propojovat velké tabulky (např. o tržbách nebo sociálních tématech), aby v nich byl pořádek.
 * **Python (programování):** Používám ho k hledání skrytých souvislostí v datech a analýze chování zákazníků.
