@@ -31,9 +31,4 @@ Abych dokázala data propojovat s byznysem ještě efektivněji, rozvíjím své
 ---
 
 ## 🚀 Na jakých projektech pracuji?
-Zaměřuji se na projekty, které mají marketingový přesah a reálný společenský dopad:
-
-* 📊 **[Analýza sociálního vyloučení v ČR](https://github.com/tryhubovaivana-coder/analyza-socialniho-vylouceni-a-barier-v-cr)** – Praktický podklad pro sociální podnikatele. Analýza dat MPSV, která ukazuje, ve kterých regionech dává největší smysl zakládat nové projekty a jak správně zacílit jejich marketing.
-* 🛒 **[Analýza českého maloobchodu](https://github.com/tryhubovaivana-coder/analyza-prodeju-a-slev-v-retailu)** – Analýza nákupního chování, tržeb a slev na základě otevřených dat ČSÚ.
-
----
+Zaměřuji se na projekty, které mají marketingový přesah a reálný společenský dopad.
